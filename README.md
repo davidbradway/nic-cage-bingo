@@ -4,7 +4,7 @@
 
 A cinematic bingo card for your *National Treasure* watch party. Every card is randomly shuffled from 35 hand-crafted squares — Freemason references, hairline acting, Riley's jokes that land for nobody. First to get five in a row wins the treasure.
 
-**[Play it live →](https://YOUR_USERNAME.github.io/nic-cage-bingo/)**
+**[Play it live →](https://davidbradway.github.io/nic-cage-bingo/)**
 
 ---
 
